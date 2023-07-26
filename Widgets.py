@@ -23,4 +23,12 @@ dbutils.widgets.get("calender")
 
 # COMMAND ----------
 
+dbutils.help()
 
+# COMMAND ----------
+
+dbutils.secrets.help()
+
+# COMMAND ----------
+
+print("hello Databricks")
